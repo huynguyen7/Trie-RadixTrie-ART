@@ -8,4 +8,3 @@ Compare lookup, insert, delete, walking all keys and memory usage.
 - Run tests `go test ./...`.
 - Install matplotlib `python3 -m pip install matplotlib`.
 - Run `python3 bench.py --sizes 100000`. Output charts go into `bench-results/`.
-# Trie-RadixTrie-ART
